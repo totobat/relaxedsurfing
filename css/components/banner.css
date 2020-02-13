@@ -1,0 +1,20 @@
+.banner {
+    background-image:linear-gradient(25deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/surf.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 150px 0;
+}
+
+.banner h1 {
+    font-family: Galada;
+    font-size: 60px;
+    margin: 0;
+}
+
+.banner h2 {
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+    margin-bottom: 40px;
+}
