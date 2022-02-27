@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url('https://fonts.googleapis.com/css?family=Galada&display=swap');
+
+@import url(components/container.css);
+@import url(components/buttons.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/card-white.css);
+@import url(components/avatar.css);
+
+body {
+    background-color:#94f3ff;
+    font-family: Roboto;
+    margin:0;
+}
+
+h1, h2, h3 {
+    font-family: Roboto, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
